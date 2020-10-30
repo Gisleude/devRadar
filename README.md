@@ -23,7 +23,7 @@ Web application:
 
 3- `yarn start` - to start the web application
 
-Web application: 
+Mobile application: 
 
 1- `cd mobile` - to access the mobile directory
 
