@@ -42,15 +42,15 @@ Mobile Application:
 
 (1) Find developers near you - You can find developers near you based on your device location and based on the techs that you fill on the search.
 
-![Find developers](https://github.com/Gisleude/DevRadar/blob/master/public/find-devs.png)
+![Find developers](https://github.com/Gisleude/DevRadar/blob/master/public/find-devs.jpeg)
 
 (2) Developer Overview - You can click on the developer and the app will show an developer overview.
 
-![Developer Overview](https://github.com/Gisleude/DevRadar/blob/master/public/dev-overview.png)
+![Developer Overview](https://github.com/Gisleude/DevRadar/blob/master/public/dev-overview.jpeg)
 
 (3) Link with Github - You can click on the overview to open the developer github page.
 
-![Developer Github](https://github.com/Gisleude/DevRadar/blob/master/public/dev-github.png)
+![Developer Github](https://github.com/Gisleude/DevRadar/blob/master/public/dev-github.jpeg)
 
 ## Observations
 ● This application was creating using Expo, so you need to install the Expo on your device before.
