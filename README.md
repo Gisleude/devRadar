@@ -41,7 +41,7 @@ Web Application:
 
 (2) List developers registered - You can see all the developers registered.
 
-Mobile Application:
+<b>Mobile Application</b>:
 
 (1) Find developers near you - You can find developers near you based on your device location and based on the techs that you fill on the search.
 
