@@ -8,6 +8,7 @@ The application is in Brazilian Portuguese.
 It's possible to execute the project as follow:
 
 Back-end:
+
 1- `cd backend` - to access the backend directory
 
 2- `yarn` - to execute the installation of the libs
@@ -15,6 +16,7 @@ Back-end:
 3- `yarn dev` - to run the developer server
 
 Web application: 
+
 1- `cd web` - to access the web directory
 
 2- `yarn` - to execute the installation of the libs
@@ -22,6 +24,7 @@ Web application:
 3- `yarn start` - to start the web application
 
 Web application: 
+
 1- `cd mobile` - to access the mobile directory
 
 2- `yarn` - to execute the installation of the libs
