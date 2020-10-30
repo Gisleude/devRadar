@@ -1,7 +1,7 @@
 # DevRadar
 
 ## The purpose
-It's a mobile and web application with back-end developed with Node.js and Front-end with React. It's a POC application that you register a developer with the github user, technologies and geolocation. This application uses the github api.
+It's a POC React, React Native and Node.js application that you register a developer with the github user, technologies and geolocation, and you can find other developers near you based on your device location. This application uses the github api.
 The application is in Brazilian Portuguese.
 
 ## How to Execute
